@@ -1,0 +1,25 @@
+.plansCtn {
+  margin: 50px 5px 50px 5px;
+  width: 80vw;
+  height: 30vh;
+  display: grid;
+}
+
+parent {
+  border: 1px solid white;
+}
+.destinationImg {
+  width: 400px;
+  height: 300px;
+}
+
+.child {
+}
+
+.tripDescription {
+  font-style: italic;
+}
+
+.tripPrice {
+  font-weight: bold;
+}
